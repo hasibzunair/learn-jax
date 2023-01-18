@@ -6,7 +6,8 @@ Clone the repo. On the terminal, `cd learn-jax` to go inside repo, and run `pip 
 # Todos
 * https://github.com/gordicaleksa/get-started-with-JAX (WIP)
 * https://github.com/8bitmp3/JAX-Flax-Tutorial-Image-Classification-with-Linen
-* CV pipelines in JAX (segmentation, classification etc.)
+* CompVis pipelines in JAX (segmentation, classification etc.)
+
 
 # References
 * https://github.com/n2cholas/awesome-jax
