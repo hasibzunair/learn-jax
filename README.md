@@ -6,6 +6,7 @@ Clone the repo. On the terminal, `cd learn-jax` to go inside repo, and run `pip 
 # Todos
 * https://github.com/gordicaleksa/get-started-with-JAX (WIP)
 * https://github.com/8bitmp3/JAX-Flax-Tutorial-Image-Classification-with-Linen
+* https://wandb.ai/wandb_fc/tips/reports/How-To-Create-an-Image-Classification-Model-in-JAX-Flax--VmlldzoyMjA0Mjk1
 * CompVis pipelines in JAX (segmentation, classification etc.)
 
 
