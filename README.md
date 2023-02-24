@@ -6,6 +6,7 @@ Clone the repo. On the terminal, `cd learn-jax` to go inside repo, and run `pip 
 # Todos
 * Image classification (WIP)
 * Image segmentation
+* https://github.com/NobuoTsukamoto/jax_examples 
 * https://github.com/google/flax/tree/main/examples (add segmentation example PR?)
 * https://github.com/huggingface/transformers/tree/main/examples/flax
 
